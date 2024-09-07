@@ -28,12 +28,19 @@ As versões mais estáveis desses pacotes e suas dependências são listadas aba
 
 ### Aula 1
 Teoria Quântica: Definições, Notação, Operador Densidade
+
 [Operador_densidade](./Operador_densidade.ipynb)
+
 ### Aula 2
 Postulados da Teoria Quântica, Medidas e Distinguibilidade de estados
+
 [Evolucao_operador_densidade_sistema_fechado](./Evolucao_operador_densidade_sistema_fechado.ipynb)
+
 [Distinguibilidade_medidas](./Distinguibilidade_medidas.ipynb)
 
 ## Aula 3
 Correlações quânticas, Emaranhamento e Teletransporte Quântico
+
 [Estado_puro_de_sistema_bipartido_e_emaranhamento](./Estado_puro_de_sistema_bipartido_e_emaranhamento.ipynb)
+
+[Teletransporte_quantico](./Teletransporte_quantico.ipynb)
