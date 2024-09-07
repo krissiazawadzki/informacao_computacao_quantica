@@ -21,7 +21,7 @@ As versões mais estáveis desses pacotes e suas dependências são listadas aba
 | Jupyter | 7.2.2 | instaladas automaticamente | pip |
 | QuTip | 4.0 | Python, NumPy, Scipy, Matplotlib, Cython, GCC, headers| pip ou conda|
 | Melt | 1.0 | Mathematica (14.0)| load |
-| Qiskit | 1.0 | | pip ou conda|
+| Qiskit | 1.0 | instaladas automaticamente| pip ou conda|
 
 
 ## Conteúdo do curso
