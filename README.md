@@ -4,7 +4,7 @@ Este repositório oferece recursos computacionais para a disciplina de Introduç
 
 Os exemplos de simulação (clássica e quântica) de sistemas quânticos são apresentados em notebooks desenvolvidas nas linguagens Python e Mathematica. Os códigos são baseados em pacotes especiais:
 
--[Numpy](https://numpy.org/): biblioteca de computação científica do Python. Conta com recursos para manipular vetores e matrizes de forma eficiente.
+- [Numpy](https://numpy.org/): biblioteca de computação científica do Python. Conta com recursos para manipular vetores e matrizes de forma eficiente.
 - [Matplotlib](https://matplotlib.org/): biblioteca de visualização do Python. Permite produzir gráficos e animações em 2D e 3D com alta qualidade.
 - [Jupyter](https://jupyter.org/): ferramenta de desenvolvimento permitindo combinar texto e código com interface web. Tem suporte para Python, Julia, R e muitas outras linguagens.
 - [QuTip](https://qutip.org/): biblioteca de informação quântica do Python. Orientada a objeto, oferece classes e métodos para simular sistemas quânticos fechados e abertos, dependente ou não do tempo, e calcular suas propriedades.
@@ -14,7 +14,7 @@ Os exemplos de simulação (clássica e quântica) de sistemas quânticos são a
 
 As versões mais estáveis desses pacotes e suas dependências são listadas abaixo:
 
-| Pacote | Versão | [!IMPORTANT] Dependências | [!TIP] Instalação recomendada | 
+| :gift: Pacote | :white_check_mark: Versão | :exclamation: Dependências | :information_source: Instalação recomendada | 
 | --- | --- | --- | --- |
 | NumPy | 2.0 | Python (3+) | pip ou conda |
 | Matplotlib | 3.9 | Python | pip ou conda |
