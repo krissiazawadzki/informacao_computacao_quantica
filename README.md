@@ -24,6 +24,7 @@ As versões mais estáveis desses pacotes e suas dependências são listadas aba
 | Qiskit | 1.0 | instaladas automaticamente| pip ou conda|
 
 
+
 ## Conteúdo do curso
 
 ### Aula 1
