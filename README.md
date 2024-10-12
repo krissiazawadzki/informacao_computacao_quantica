@@ -39,9 +39,22 @@ Postulados da Teoria Quântica, Medidas e Distinguibilidade de estados
 
 [Distinguibilidade_medidas](./Distinguibilidade_medidas.ipynb)
 
-## Aula 3
+## Aula 3 e 4 
 Correlações quânticas, Emaranhamento e Teletransporte Quântico
 
 [Estado_puro_de_sistema_bipartido_e_emaranhamento](./Estado_puro_de_sistema_bipartido_e_emaranhamento.ipynb)
 
 [Teletransporte_quantico](./Teletransporte_quantico.ipynb)
+
+
+## Aulas 5 
+Medidas de emaranhamento, separabilidade e SVD
+
+[Emaranhamento_e_separabilidade](./Emaranhamento_e_separabilidade.ipynb)
+
+
+## Aulas 7 
+Equações mestras - solução de Lindblad
+
+[Equacao_mestra_de_Lindblad](./Equacao_mestra_de_Lindblad.ipynb)
+
