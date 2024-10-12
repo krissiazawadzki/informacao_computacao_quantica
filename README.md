@@ -47,14 +47,14 @@ Correlações quânticas, Emaranhamento e Teletransporte Quântico
 [Teletransporte_quantico](./Teletransporte_quantico.ipynb)
 
 
-## Aulas 5 
+## Aula 5 
 Medidas de emaranhamento, separabilidade e SVD
 
 [Emaranhamento_e_separabilidade](./Emaranhamento_e_separabilidade.ipynb)
 
 
-## Aulas 7 
-Equações mestras - solução de Lindblad
+## Aula 7 
+Equações mestras - exemplo de solução numérica de Lindblad para um qubit com dissipação
 
 [Equacao_mestra_de_Lindblad](./Equacao_mestra_de_Lindblad.ipynb)
 
